@@ -1,4 +1,4 @@
-noce default {
+node default {
   file {'/root/README':
     ensure => file,
   }
